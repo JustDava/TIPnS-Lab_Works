@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIPnS-Lab_1", "TIPnS-Lab_1\TIPnS-Lab_1.csproj", "{94F01C0B-54A2-4D8D-82C4-DC8B4CF93B2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TIPnS-Lab_2", "TIPnS-Lab_2\TIPnS-Lab_2.csproj", "{1391465D-DE82-49E7-ABFB-5B26F39A5F08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94F01C0B-54A2-4D8D-82C4-DC8B4CF93B2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94F01C0B-54A2-4D8D-82C4-DC8B4CF93B2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94F01C0B-54A2-4D8D-82C4-DC8B4CF93B2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94F01C0B-54A2-4D8D-82C4-DC8B4CF93B2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1391465D-DE82-49E7-ABFB-5B26F39A5F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1391465D-DE82-49E7-ABFB-5B26F39A5F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1391465D-DE82-49E7-ABFB-5B26F39A5F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1391465D-DE82-49E7-ABFB-5B26F39A5F08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06B3EF74-33FB-4BB2-B5FA-BFD13B199155}
+	EndGlobalSection
+EndGlobal
